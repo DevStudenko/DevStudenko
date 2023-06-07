@@ -1,5 +1,7 @@
 ### Hi there 👋
-<h2>I'm Denis.</h2>
+
+<h3>I'm Denis.</h3>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Digital Explorer. Innovating with code and transforming ideas into reality.
@@ -8,6 +10,7 @@
 - ✍️ &nbsp; Delving into the art of web development and the science of software engineering.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -20,12 +23,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=windows-terminal)
+  ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=windows-terminal)
 
 <br/>
 
 <a href="https://github.com/DevStudenko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevStudenko8&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevStudenko&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevStudenko&theme=buefy&layout=compact" />
 </a>
 
@@ -33,6 +36,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="mailto:dstudenko@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
