@@ -2,7 +2,7 @@
 
 <h3>I'm Denis.</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">About Me </h3>
 
 - 🤔 &nbsp; Digital Explorer. Innovating with code and transforming ideas into reality.
 - 🎓 &nbsp; Studying Software Engineeering at App Academy.
