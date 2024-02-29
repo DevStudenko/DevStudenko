@@ -27,9 +27,6 @@
 
 <br/>
 
-<a href="https://github.com/DevStudenko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevStudenko&theme=buefy&show_icons=true" />
-</a>
 
 <br/>
 
